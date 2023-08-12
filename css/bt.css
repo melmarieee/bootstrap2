@@ -1,0 +1,12 @@
+ .col1-container{
+        background-color:#ffff; height:900px; padding: 100px;
+}
+.col2-container{
+        background-color: #EAEEFA; text-align: center; padding: 30px; height: 900px; width: 600px;
+}
+.logo-container{
+text-align: center; height: 250px; width: 500px; padding: 30px;
+}
+h1{
+    height: 20px; width: 10px; text-align: center;
+}
